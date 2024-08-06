@@ -12,5 +12,5 @@ Currently, two official plugins are available:
 
 
 ##clone the repositiry
-open command do=>npm i
-open command dp=>npm run dev
+-#open command do=>npm i
+-#open command dp=>npm run dev
